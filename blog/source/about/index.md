@@ -11,6 +11,8 @@ mp3: http://link.hhtjim.com/163/28892408.mp3
 * 为贪嗔喜恶怒着迷
 
 # 我是亢世峰
+> #### mail: kangshifeng1992@gmail.com
+
 一个喜爱运动，不甘平凡的软件工程师。
 正如同首页的那两行，我渴望创造这个世界不曾有过的风景。
 爱篮球，爱攀岩，因为当我在打球和攀岩是，我能找到那个极度专注的自己。
@@ -27,10 +29,12 @@ mp3: http://link.hhtjim.com/163/28892408.mp3
 * 工作初期从事系统级开发，主要做系统级和偏驱动层的开发，参与过C10M高并发问题解决方案，了解过dpdk
 * 在上海中科院基础软件及通用芯片研究中心参与linux性能优化，开发过视频处理相关项目，了解ffmpeg
 * 参与移动咪咕视频后端视频转码器，视频截取软件开发，拓展了自己web项目开发经验
-* 曾系统的研究过docker容器管理，部署过Kubernetes+docker集群
+* 曾系统的研究过docker容器管理，部署过Kubernetes+docker集群
 * 参与联通某项目，百万用户，上万并发量，参与设计高性能高可用方案，并持续优化  
 
 熟悉C、Golang、Python
 熟悉linux系统结构及开发接口，了解内核参数优化
 熟悉nginx mycat mysql redis mongodb tomcat lvs+keepalive 等组件
-熟悉Kubernetes docker容器化管理和应用容器化开发
+熟悉Kubernetes docker容器化管理和应用容器化开发
+
+#### **承接商业化项目，有意向请email我。**

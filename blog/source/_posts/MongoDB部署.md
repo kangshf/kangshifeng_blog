@@ -161,8 +161,8 @@ esac
 ```
 10. 开机自启
 `# chkconfig redis on`
-### 几个建议
-- mongodb建议以非root用户启动
+### 几个建议
+- mongodb建议以非root用户启动
 建议创建名为mongodb的用户，修改mongodb文件属主，用mongodb用户启动
 - 禁用THP
 Transparent Huge Pages (THP)，通过使用更大的内存页面，可以减少具有大量内存的机器上的缓冲区（TLB）查找的开销。

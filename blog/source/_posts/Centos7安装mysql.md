@@ -69,7 +69,7 @@ mysql > GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'passwd' WITH GR
 mysql > GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY 'passwd' WITH GRANT OPTION;  
 mysql > flush privileges;
 ```
-### 注意事项  
+### 注意事项  
 安装前请检查系统版本为CentOS7  
 CentOS6用户请第一步执行  
 `# wget https://dev.mysql.com/get/mysql80-community-release-el6-1.noarch.rpm`

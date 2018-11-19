@@ -16,7 +16,7 @@ Redis是一个开源（BSD许可），内存存储的数据结构服务器，可
 `# wget http://download.redis.io/releases/redis-3.0.6.tar.gz`
 2. 解压压缩包  
 `# tar -xvf redis-3.0.6.tar.gz`
-3. 编译源码并安装  
+3. 编译源码并安装  
 `# make`    
 `# make install`  
 - 注：如发生以下错误  
